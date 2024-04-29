@@ -19,10 +19,6 @@
 ![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/6b27d254-eca3-4953-aa12-766cef1f9943)
 
 
-### Import the below repository into Azure DevOps for Terraform configuration
-
-https://github.com/piyushsachdeva/Terraform-AzureDevOps-Sample.git
-
 ## Let's implement this using Azure DevOps
 
 ![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/a8395bd1-ee47-4b41-ba73-2f4bca714fd2)
