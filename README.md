@@ -4,7 +4,7 @@
 
 ## How Terraform works
 
-![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/943c9ea1-a6db-4ff7-9a2b-d91abe43acef)
+![Terraform.png](https://github.com/Reliable-Royalty-29/Terraform-Project/blob/main/assets/img/Terraform.png)
 
 ## Initialize the Terraform repo
 
