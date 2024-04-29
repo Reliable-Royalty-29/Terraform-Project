@@ -29,9 +29,9 @@
 ``` shell
 #!/bin/bash
 ## The Storage account name must be unique, and the values below should match your backend.tf
-RESOURCE_GROUP_NAME=demo-resources
-STORAGE_ACCOUNT_NAME=techtutorialswithpiyush
-CONTAINER_NAME=prod-tfstate
+RESOURCE_GROUP_NAME=Your-Resource-Group-Name
+STORAGE_ACCOUNT_NAME=Your-Storage-Account-Name
+CONTAINER_NAME=prod-Your-Container-Name
 
 # Create resource group
 az group create --name $RESOURCE_GROUP_NAME --location canadacentral
